@@ -2,9 +2,9 @@
 Animated GIF view widget for Appcelerator Titanium
 
 
-### Need Titanium Nateve Module
-IOS : https://github.com/mpociot/TiImageFromGIF
-ANDROID : https://github.com/m1ga/com.miga.gifview
+### Need Titanium Native Module
+- IOS : https://github.com/mpociot/TiImageFromGIF
+- ANDROID : https://github.com/m1ga/com.miga.gifview
 
 (Thanks to mpociot & m1ga)
 
