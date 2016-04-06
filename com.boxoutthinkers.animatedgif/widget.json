@@ -1,0 +1,13 @@
+{
+  "id": "com.boxoutthinkers.animatedgif",
+  "name": "com.boxoutthinkers.animatedgif",
+  "description" : "",
+  "author": "",
+  "version": "1.0",
+  "copyright":"Copyright (c) 2016 BOXOUT THINKERS",
+  "license":"Apache license 2.0",
+  "min-alloy-version": "1.0",
+  "min-titanium-version":"5.1.2.GA",
+  "tags":"",
+  "platforms":"android,ios"
+}
